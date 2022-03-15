@@ -9,3 +9,4 @@ def list_data(list1):
     output= first +last
     print(output)
 list_data(list1)
+
